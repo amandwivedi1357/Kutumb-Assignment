@@ -1,8 +1,29 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#### Kutumb Assignment
 
-Currently, two official plugins are available:
+1. Navigate to the frontend directory:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+   ```bash
+   cd ../kutumb-assignment
+   ```
+
+2. Install the frontend dependencies:
+
+   ```bash
+   npm install
+   ```
+
+## Running the Application
+1. Navigate to the frontend directory (if not already there):
+
+   ```bash
+   cd ../kutumb-assignment
+   ```
+
+2. Start the React application:
+
+   ```bash
+   npm run dev
+   ```
+
+   The frontend application will run on `http://localhost:5173`.
