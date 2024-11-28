@@ -27,3 +27,4 @@
    ```
 
    The frontend application will run on `http://localhost:5173`.
+   The Application is deployed at 'https://kutumb-one.vercel.app/'
